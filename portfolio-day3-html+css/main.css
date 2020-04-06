@@ -1,0 +1,30 @@
+
+body {
+    font-size: 1em;
+    background-color: lightskyblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+ul {
+    background-color: lightcyan;
+}
+
+form {
+    background-color: lightcyan;
+}
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+}
+
+a {
+    color: darkslateblue;
+    border: 1px solid darkslateblue;
+}
+
+table {
+    color: darkslateblue;
+    border: 1px solid darkslateblue;
+}
+
