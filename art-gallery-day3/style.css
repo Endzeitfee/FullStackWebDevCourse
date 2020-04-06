@@ -34,12 +34,19 @@ padding-bottom: 20px;
 
 img {
     width: 40%;
+    filter: grayscale(100%);
 }
 
-#info {
+img:hover {
+    filter: grayscale(0%);
+}
+
+.info {
     background-color: palegoldenrod;
+    top: 100px;
 }
 
 .copy {
     font-size: x-small;
 }
+
