@@ -1,0 +1,42 @@
+body {
+    background-color: darkmagenta;
+}
+
+h1 {
+    text-align: center;
+    font-family: fantasy;
+    font-size: 3em;
+}
+
+h4 {
+    text-align: center;
+    font-family: fantasy;
+    font-style: oblique;
+    color: lightpink;
+    font-size: 2em;
+}
+
+p {
+    color: lightpink;
+}
+
+.imgContainer {
+    position: relative;
+}
+
+img {
+    max-width: 30%;
+    padding: 50px;
+    height: auto;
+}
+
+#copy {
+    position: absolute;
+    bottom: 12px;
+}
+
+div {
+    background-color: mediumvioletred;
+    text-align: center;
+    display: block;
+}
