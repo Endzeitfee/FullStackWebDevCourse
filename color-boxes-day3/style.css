@@ -1,0 +1,33 @@
+body {
+    background-color: lightseagreen;
+}
+
+.minibox {
+height: 10px;
+width: 200px;
+background-color: lightpink;
+position: relative;
+left: 100px;
+}
+
+.medbox {
+height: 50px;
+width: 230px;
+background-color: palevioletred;
+position: relative;
+top: 30px;
+left: 140px;
+}
+
+.bigbox {
+height: 100px;
+width: 230px;
+background-color: rebeccapurple;
+position: relative;
+top: 50px;
+left: 250px;
+}
+
+h1 {
+    text-align: center;
+}
