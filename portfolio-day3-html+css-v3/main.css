@@ -67,3 +67,9 @@ tr:hover {
 .nosquare {
     list-style: none;
 }
+
+.skills {
+    color: darkslateblue;
+    padding: 12px;
+    display: block;
+}
