@@ -1,0 +1,45 @@
+h1{
+text-align: center;
+border: 2px solid palegoldenrod;
+border-radius: 25px;
+margin: auto;
+font-size: 4em;
+}
+
+p {
+    text-align: center;
+    font-weight: bold;
+}
+
+body{
+    background-color: oldlace;
+    font-family: sans-serif;
+    color: peru;
+}
+
+.welcomeMsg {
+text-align: center;
+font-family: monospace;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+
+.paintings {
+    margin: auto;
+    border: 2px solid palegoldenrod;
+    border-radius: 25px;
+    padding: 25px;
+    text-align: center;
+}
+
+img {
+    width: 40%;
+}
+
+#info {
+    background-color: palegoldenrod;
+}
+
+.copy {
+    font-size: x-small;
+}
