@@ -1,0 +1,24 @@
+.nav {
+    background-color: azure;
+}
+
+body {
+    background-color: lightskyblue;
+}
+
+.nav-item {
+    padding-right: 20px;
+    border-right: 1px solid lightskyblue;
+    color: lightskyblue;
+}
+
+.jumbotron {
+    background-image: url("rainbow.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        color: lightskyblue;
+}
+
+.card-body {
+    background-color: lightcyan;
+}
