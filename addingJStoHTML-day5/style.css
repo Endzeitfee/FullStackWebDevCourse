@@ -1,0 +1,11 @@
+body{
+    background-color: darkslateblue;
+    color: linen;
+    text-align: center;
+    font-family: fantasy;
+}
+
+button {
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+}
