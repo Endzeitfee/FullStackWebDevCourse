@@ -1,0 +1,41 @@
+body{
+    background-color: darkslateblue;
+    color: linen;
+    text-align: center;
+    font-family: fantasy;
+}
+
+button {
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+}
+
+#divOne {
+    margin: 100px;
+    background-color: red;
+    height: 80px;
+    width: 150px;
+}
+
+#divTwo {
+    margin:20px;
+    background-color: orange;
+    height: 180px;
+    width: 50px;
+}
+
+.blueDiv {
+    height: 120px;
+    width: 80px;
+    position: relative;
+    top: 20px;
+    background-color: blue;
+}
+
+.redDiv {
+    height: 150px;
+    width: 200px;
+    position: absolute;
+    right: 30px;
+    background-color: red;
+}
