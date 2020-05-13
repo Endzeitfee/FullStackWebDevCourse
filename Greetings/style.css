@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+img {
+    border: 3px solid white;
+    position: relative;
+    left: 35%;
+}
+
+body {
+    color:  greenyellow;
+}
