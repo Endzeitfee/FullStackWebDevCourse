@@ -1,0 +1,42 @@
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Forms</title>
+    </head>
+    <body>
+        <h1>Values from HTML Forms</h1>
+
+        <form>
+            <p>Name: </p>
+            <input id="nameForm" type="text">
+            <p>Password: </p>
+            <input id="passForm" type="text">
+            <button type="button" onclick="returnInfo()" name="button">Click me!</button>
+            <br>
+
+            <h2>Multiplying Calculator</h2>
+            <p>Enter two numbers and we will return the value.</p>
+            <form>Number One: </form>
+            <input id="numOne" type="text"> 
+            <form>Number Two: </form>
+            <input id="numTwo" type="text"> 
+        </form>
+        <button type="button" name="button" onclick="calculate()">Calculate!</button>
+        
+        <h2>Welcome to my bank.</h2>
+        <h4>Please add your name, password and amount to withdraw</h4>
+        <form>
+            <p>Name: </p>
+            <input id= "userName" type="text">
+            <p>Password: </p>
+            <input id="userPass" type="text">
+            <p>Amount: </p>
+            <input id="amountForm" type="text">
+        </form>
+        <button type="button" onclick="withdraw()">Withdraw</button>
+        <h4 id="feedback"></h4>
+        <script type="text/javascript" src="forms.js"></script>
+    </body>
+    </html>
