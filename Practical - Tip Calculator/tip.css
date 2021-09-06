@@ -1,0 +1,19 @@
+body{
+    background-color: #4B8FDD;
+}
+
+div{
+    text-align: center;
+    font-family: monospace;
+    background-color: #A0EEA0;
+    border-radius: 30px;
+    padding: 25px;
+}
+
+button{
+    background-color: #55B654;
+    color: #FFFFFF;
+}
+h4{
+    font-size: 20px;
+}
